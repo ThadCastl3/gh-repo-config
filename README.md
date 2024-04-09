@@ -1,4 +1,4 @@
-# Repo Config
+# Copy of Repo Config from https://github.com/twelvelabs/gh-repo-config
 
 :sparkles: A GitHub (`gh`) [CLI](https://cli.github.com) extension to manage GitHub repository settings via declarative configuration.
 
@@ -11,7 +11,7 @@
 2. Install this extension:
 
    ```sh
-   gh extension install twelvelabs/gh-repo-config
+   gh extension install ThadCastl3/gh-repo-config
    ```
 
 ## Usage
